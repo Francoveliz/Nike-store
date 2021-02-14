@@ -1,7 +1,9 @@
 /* generales */
-body {
+body, html {
   font-size: 18px;
   font-family: 'Roboto', sans-serif !important;
+  background-color: #FCFCFC;
+
 }
 
 h1 {
