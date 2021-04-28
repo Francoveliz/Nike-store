@@ -1,3 +1,5 @@
+<h1 align="center">Nike store </h1>
+
 ![nike store](./img/screenshot.jpg)
 
 </br>
